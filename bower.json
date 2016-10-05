@@ -1,0 +1,21 @@
+{
+  "name": "GraphProject",
+  "main": "cytoscape.js",
+  "authors": [
+    "Miroslav Vidovic <miroslav-vidovic@hotmail.com>"
+  ],
+  "description": "Upwork graph project",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "cytoscape": "^2.7.10"
+  }
+}
